@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Lobib Wasef Ullah, an enthusiastic React web developer. I try to learn new technology and implement through my projects
+👋 Hi, I'm Lobib Wasef Ullah — a passionate React web developer who loves exploring new technologies and turning ideas into functional web projects. Always learning, always building!
 
 
 ## 🌐 Socials:
