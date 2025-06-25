@@ -1,3 +1,5 @@
+![Banner](./wasefBanner.png)
+
 # 💫 About Me:
 I’m a passionate web developer currently diving deep into front-end technologies.  
 I love turning ideas into responsive and interactive websites.  
