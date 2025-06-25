@@ -3,8 +3,9 @@ I’m a passionate web developer currently diving deep into front-end technologi
 I love turning ideas into responsive and interactive websites.  
 Always curious and eager to learn the next big thing in tech.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/lobib-wasef-ullah-664993339) 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lobib-wasef-ullah-664993339)
+ 
 
 🛠️ Current Activities:
 <li>🔭 I’m working on a tourism web app using React.</li>
