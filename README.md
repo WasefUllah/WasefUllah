@@ -1,4 +1,4 @@
-![Banner](./wasefBanner.png)
+![Banner](./githubBanner.png)
 
 # 💫 About Me:
 I’m a passionate web developer currently diving deep into front-end technologies.  
